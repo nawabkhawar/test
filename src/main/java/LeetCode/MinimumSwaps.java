@@ -8,6 +8,8 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 //https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays
+//7
+//7 1 3 2 4 5 6
 public class MinimumSwaps {
 
     // Complete the minimumSwaps function below.
